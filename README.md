@@ -1,5 +1,4 @@
 # IBM-PROJECT-ON-DATA-SCIENCE
-# IBM-PROJECT-ON-DATA-SCIENCE
 # 🩺 Human Disease Prediction System
 
 A web-based application that predicts potential diseases based on user-selected symptoms.  
